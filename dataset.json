@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Tempe, Arizona with a population of over 180k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Tempe, Arizona, US",
+  "export_job_id": "95d04594-2a89-4895-9c2e-3f26cc6c58b2",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 909461,
+  "location_name": "Tempe",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-tempe-arizona-us-sample-909461",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/909461/beamstation_909461_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_pct": 9.48,
+  "sample_records": 74,
+  "sample_sha256": "ea11c40062f9995894f12c863d40316d1a4683e0f560d88df1cf7b35fa34b5f5",
+  "sample_size_bytes": 264883,
+  "total_records": 781,
+  "updated_at": "2026-04-07T10:58:10.133823+00:00"
+}
