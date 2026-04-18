@@ -9,9 +9,9 @@
 | Dataset ID | `909461` |
 | Location | Tempe |
 | Category | Restaurants |
-| Full dataset size | 781 records |
-| Free sample size | 74 records (9.48%) |
-| Last export | 2026-04-07T10:58:10.133823+00:00 |
+| Full dataset size | 741 records |
+| Free sample size | 74 records (9.99%) |
+| Last export | 2026-04-14T10:51:49.474037+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-tempe-arizona-us-sample-909461/releases/download/sample-latest/beamstation_909461_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample
