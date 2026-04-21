@@ -1,6 +1,6 @@
 # All Restaurants in Tempe, Arizona, US
 
-> Free BeamStation sample export with 74 rows and masked direct-contact fields.
+> Free BeamStation sample export with 60 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `909461` |
 | Location | Tempe |
 | Category | Restaurants |
-| Full dataset size | 741 records |
-| Free sample size | 74 records (9.99%) |
-| Last export | 2026-04-14T10:51:49.474037+00:00 |
+| Full dataset size | 609 records |
+| Free sample size | 60 records (9.85%) |
+| Last export | 2026-04-21T11:14:44.526984+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-tempe-arizona-us-sample-909461/releases/download/sample-latest/beamstation_909461_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample
