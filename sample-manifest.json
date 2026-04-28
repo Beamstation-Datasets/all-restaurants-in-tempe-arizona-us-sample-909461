@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e6af5f1e-9657-4e4f-8bb5-ea77d81284f1",
+  "export_job_id": "5ff75fa2-96f7-460b-ac01-5447f34e2ce6",
   "id_short": 909461,
-  "published_at": "2026-04-21T19:58:00Z",
+  "published_at": "2026-04-28T19:34:26Z",
   "repo_name": "all-restaurants-in-tempe-arizona-us-sample-909461",
   "sample_asset_name": "beamstation_909461_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/909461/beamstation_909461_restaurants-us-az_SAMPLE_DIST.csv",
-  "sample_records": 60,
-  "sample_sha256": "c5e6abc483e2360cbe2a5c4d9d7e1be3c498b45b3dfa41852d1dc2fc0195e775",
-  "sample_size_bytes": 223642,
-  "total_records": 609
+  "sample_records": 69,
+  "sample_sha256": "ccd8f21523cd5f57f9eb3f8d62ab4d0a8fe706fd46e0a95123be51d9ce94995c",
+  "sample_size_bytes": 239614,
+  "total_records": 691
 }
